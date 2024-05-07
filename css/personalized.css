@@ -1,0 +1,31 @@
+.title-color{
+    color: #ffc85c;
+    /* color: #59886b; */
+}
+
+.la-logo{
+    width: 100px; height: 100px;
+}
+
+.feature:hover{
+    background: #59886b;
+    
+    h3{
+        color: white;
+    }
+
+    .title-color{
+        
+    }
+
+    a{
+        color: #9cd1ee;
+    }
+    .card-txt-color{
+        color:#b5d5c1;;
+    }
+}
+
+.more{
+    color: #0077B5;
+}
